@@ -26,7 +26,7 @@ const MainLayout = (props) => {
 
     // componentDidmounr
     useEffect(() => {
-        // getToken();
+        getToken();
     }, []);
 
     return (
